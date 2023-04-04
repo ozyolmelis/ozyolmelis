@@ -13,7 +13,7 @@ My name is Melis Özyol. I am a Front-end Developer.
 
 
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozyolmelis&theme=blue-green)](https://github.com/ozyolmelis/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozyolmelis)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ozyolmelis/ozyolmelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
