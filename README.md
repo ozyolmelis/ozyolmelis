@@ -12,8 +12,8 @@ My name is Melis Özyol. I am a Front-end Developer.
 [![Vue](https://img.shields.io/badge/--F7DF1E?logo=vue&logoColor=000)](https://vuejs.org)
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozyolmelis)](https://github.com/anuraghazra/github-readme-stats)
+###
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozyolmelis&show_icons=true)
 
 <!--
 **ozyolmelis/ozyolmelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
