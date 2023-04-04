@@ -1,7 +1,7 @@
 ### Hi there 👋 
 My name is Melis Özyol. I am a Front-end Developer.
 
-🌱 I’m currently learning VueJS.
+- 🌱 I’m currently learning VueJS.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/ozyolmelis)
 
