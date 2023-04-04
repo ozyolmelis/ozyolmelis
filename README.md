@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 
+My name is Melis Özyol. I am a Front-end Developer.
+
+🌱 I’m currently learning VueJS.
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/ozyolmelis)
 
 <!--
 **ozyolmelis/ozyolmelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
