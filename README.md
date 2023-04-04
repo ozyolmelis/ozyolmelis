@@ -11,7 +11,7 @@ My name is Melis Özyol. I am a Front-end Developer.
 
 ### Languages and Tools
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
-[![Vuejs](https://icons8.com/icon/rY6agKizO9eb/vue-js)](https://vuejs.org/)
+[![Vue](https://icons8.com/icon/rY6agKizO9eb/vue-js)](https://vuejs.org/)
 
 
 
