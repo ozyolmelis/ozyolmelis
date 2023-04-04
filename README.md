@@ -5,6 +5,12 @@ My name is Melis Özyol. I am a Front-end Developer.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/ozyolmelis)
 
+
+
+### Skills
+[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
+[![Vue](https://img.shields.io/badge/--F7DF1E?logo=vue&logoColor=000)](https://vuejs.org)
+
 <!--
 **ozyolmelis/ozyolmelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
