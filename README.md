@@ -24,5 +24,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozyolmelis&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozyolmelis&hide_progress=true&langs_count=8&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
+![C#](https://img.shields.io/badge/-C%23-blue)
+![Unity](https://img.shields.io/badge/-Unity-orange)
+
+
 
 
