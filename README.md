@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melis Özyol.</h1>
-<h3 align="center">A passionate Unity Game Developer from Turkey.</h3>
+<h3 align="center">A passionate Frontend Developer from Turkey.</h3>
 
-- 🌱 I’m currently learning **C# and Unity.**
+- 🌱 I’m currently learning **Vue.js and Nuxt.js.**
 
 - 📫 How to reach me **ozymelis@hotmail.com**
 
@@ -26,8 +26,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozyolmelis&hide_progress=true&langs_count=8&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-![C#](https://img.shields.io/badge/-C%23-blue)
-![Unity](https://img.shields.io/badge/-Unity-orange)
 
 
 
