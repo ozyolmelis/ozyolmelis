@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melis Özyol.</h1>
 <h3 align="center">A passionate Frontend Developer from Turkey.</h3>
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **ozymelis@hotmail.com**
 
