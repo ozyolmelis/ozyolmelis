@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Melis Özyol.</h1>
-<h3 align="center">A passionate Frontend Developer from Turkey.</h3>
+<h1 align="center">Hi 👋, I'm Melis Özyol Ünlü.</h1>
+<h3 align="center">A passionate Frontend Developer from Portugal</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently looking for **Frotend Developer jobs**
 
 - 📫 How to reach me **ozymelis@hotmail.com**
 
