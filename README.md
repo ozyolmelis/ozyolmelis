@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Melis Özyol Ünlü.</h1>
 <h3 align="center">A passionate Frontend Developer from Portugal</h3>
 
-- 🌱 I’m currently looking for **Frontend Developer jobs**
-
 - 📫 How to reach me **ozymelis@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
